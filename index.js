@@ -74,7 +74,7 @@ client
 
     })
 
-    .login('MTE5ODgyMTI5Nzc1MzQzNjI0MA.Gw4FIB.OB2JpnBQqCdfwY5sgxcpWsW3Yq30Fykf9df24o');
+    .login(BOT_TOKEN);
 
 async function verificarAniversarios() {
     const hoje = new Date();
